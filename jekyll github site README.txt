@@ -1,7 +1,7 @@
 bundle exec jekyll build
 cd _site
 git add -u
-git commit -m ‘updated CV and research talk pdf’
+git commit -m “updated CV and research talk pdf”
 git push -u origin master
 
 
